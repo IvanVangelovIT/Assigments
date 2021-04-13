@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jXMh0bC8gh55OVQVH+145HBECHcqKoof7efTFhunLrZygCP38mAKeCJGKQOJE5xchBeoCTJEG+P8PjP/dIfb+Q==",
+  "success": true,
+  "projectFilePath": "D:\\Technicalassigment\\Solutions\\Solutions\\Zoo\\Zoo.Data.Models\\Zoo.Data.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IT\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

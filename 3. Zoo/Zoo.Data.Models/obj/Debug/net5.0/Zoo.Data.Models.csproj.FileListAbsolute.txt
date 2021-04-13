@@ -1,0 +1,12 @@
+D:\Technicalassigment\Solutions\ZooAsigmentA1\Zoo\Zoo.Data.Models\bin\Debug\net5.0\Zoo.Data.Models.deps.json
+D:\Technicalassigment\Solutions\ZooAsigmentA1\Zoo\Zoo.Data.Models\bin\Debug\net5.0\Zoo.Data.Models.dll
+D:\Technicalassigment\Solutions\ZooAsigmentA1\Zoo\Zoo.Data.Models\bin\Debug\net5.0\ref\Zoo.Data.Models.dll
+D:\Technicalassigment\Solutions\ZooAsigmentA1\Zoo\Zoo.Data.Models\bin\Debug\net5.0\Zoo.Data.Models.pdb
+D:\Technicalassigment\Solutions\ZooAsigmentA1\Zoo\Zoo.Data.Models\obj\Debug\net5.0\Zoo.Data.Models.csprojAssemblyReference.cache
+D:\Technicalassigment\Solutions\ZooAsigmentA1\Zoo\Zoo.Data.Models\obj\Debug\net5.0\Zoo.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technicalassigment\Solutions\ZooAsigmentA1\Zoo\Zoo.Data.Models\obj\Debug\net5.0\Zoo.Data.Models.AssemblyInfoInputs.cache
+D:\Technicalassigment\Solutions\ZooAsigmentA1\Zoo\Zoo.Data.Models\obj\Debug\net5.0\Zoo.Data.Models.AssemblyInfo.cs
+D:\Technicalassigment\Solutions\ZooAsigmentA1\Zoo\Zoo.Data.Models\obj\Debug\net5.0\Zoo.Data.Models.csproj.CoreCompileInputs.cache
+D:\Technicalassigment\Solutions\ZooAsigmentA1\Zoo\Zoo.Data.Models\obj\Debug\net5.0\Zoo.Data.Models.dll
+D:\Technicalassigment\Solutions\ZooAsigmentA1\Zoo\Zoo.Data.Models\obj\Debug\net5.0\ref\Zoo.Data.Models.dll
+D:\Technicalassigment\Solutions\ZooAsigmentA1\Zoo\Zoo.Data.Models\obj\Debug\net5.0\Zoo.Data.Models.pdb
