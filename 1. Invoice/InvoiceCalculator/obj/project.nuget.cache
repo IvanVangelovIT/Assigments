@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gryJeMTL5Rv3NTAaJqUW22SlLBS3y/fOi8WdtA7bwsN63cy1JPTvVZThNGyfYTQBusSoDKwzzgDNnsg4Eu4pww==",
+  "dgSpecHash": "tw7hRJVV6K1GxKGVuEJSZv7kOu/stNc2wV29PbN5UbFEogKKCg46U8igZ/YnrITYw+FWYkgabxQB4I8CAOVUuQ==",
   "success": true,
-  "projectFilePath": "D:\\Technicalassigment\\Solutions\\Solutions\\Invoice\\InvoiceCalculator\\InvoiceCalculator.csproj",
+  "projectFilePath": "D:\\Technicalassigment\\Solutions\\Solutions\\1. Invoice\\InvoiceCalculator\\InvoiceCalculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IT\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
   ],

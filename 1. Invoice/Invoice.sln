@@ -7,10 +7,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. InvoiceCalculator", "1. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InvoiceCalculator", "InvoiceCalculator\InvoiceCalculator.csproj", "{BC5EC998-D747-4963-A116-34F15434C97E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{52FFD1E6-7F03-4349-A276-BD90D284E741}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceCalculator.Services.Tests", "InvoiceCalculator.Services.Tests\InvoiceCalculator.Services.Tests.csproj", "{CB3D3696-F969-48A3-AE75-2ECA6E28FDB1}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,17 +17,12 @@ Global
 		{BC5EC998-D747-4963-A116-34F15434C97E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC5EC998-D747-4963-A116-34F15434C97E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC5EC998-D747-4963-A116-34F15434C97E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CB3D3696-F969-48A3-AE75-2ECA6E28FDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CB3D3696-F969-48A3-AE75-2ECA6E28FDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CB3D3696-F969-48A3-AE75-2ECA6E28FDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CB3D3696-F969-48A3-AE75-2ECA6E28FDB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BC5EC998-D747-4963-A116-34F15434C97E} = {178028EB-DCE7-4B70-8011-630D5C7EFFDB}
-		{CB3D3696-F969-48A3-AE75-2ECA6E28FDB1} = {52FFD1E6-7F03-4349-A276-BD90D284E741}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {50E24CF8-69D1-45E3-BFCE-8F6C0822A3F7}

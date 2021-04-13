@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "47GPHyEVdl7hgSrvJL+Atq69Qh4xDcpJOCMoYdzE0dWDtZMQ8j5WxAHD+P7C/9HVBO/Ua4tKFr7SrRzy+6aNjQ==",
+  "dgSpecHash": "YQhBGkVSTvIGp4gnijYZ3RZiSqLKtBRpfIKIyCDKNWc973hBFPUIcP+5AmTrDQ5pUsG/dx5iXqid9ArYow2hhA==",
   "success": true,
-  "projectFilePath": "D:\\Technicalassigment\\Solutions\\Solutions\\Invoice\\InvoiceCalculator.Services.Tests\\InvoiceCalculator.Services.Tests.csproj",
+  "projectFilePath": "D:\\Technicalassigment\\Solutions\\Solutions\\1. Invoice\\InvoiceCalculator.Services.Tests\\InvoiceCalculator.Services.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IT\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\IT\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Technicalassigment\\Solutions\\Solutions\\Invoice\\InvoiceCalculator\\InvoiceCalculator.csproj": {}
+    "D:\\Technicalassigment\\Solutions\\Solutions\\1. Invoice\\InvoiceCalculator\\InvoiceCalculator.csproj": {}
   },
   "projects": {
-    "D:\\Technicalassigment\\Solutions\\Solutions\\Invoice\\InvoiceCalculator\\InvoiceCalculator.csproj": {
+    "D:\\Technicalassigment\\Solutions\\Solutions\\1. Invoice\\InvoiceCalculator\\InvoiceCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Technicalassigment\\Solutions\\Solutions\\Invoice\\InvoiceCalculator\\InvoiceCalculator.csproj",
+        "projectUniqueName": "D:\\Technicalassigment\\Solutions\\Solutions\\1. Invoice\\InvoiceCalculator\\InvoiceCalculator.csproj",
         "projectName": "InvoiceCalculator",
-        "projectPath": "D:\\Technicalassigment\\Solutions\\Solutions\\Invoice\\InvoiceCalculator\\InvoiceCalculator.csproj",
+        "projectPath": "D:\\Technicalassigment\\Solutions\\Solutions\\1. Invoice\\InvoiceCalculator\\InvoiceCalculator.csproj",
         "packagesPath": "C:\\Users\\IT\\.nuget\\packages\\",
-        "outputPath": "D:\\Technicalassigment\\Solutions\\Solutions\\Invoice\\InvoiceCalculator\\obj\\",
+        "outputPath": "D:\\Technicalassigment\\Solutions\\Solutions\\1. Invoice\\InvoiceCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IT\\AppData\\Roaming\\NuGet\\NuGet.Config",

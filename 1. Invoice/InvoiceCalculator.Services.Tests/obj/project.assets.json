@@ -5722,11 +5722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Technicalassigment\\Solutions\\Solutions\\Invoice\\InvoiceCalculator.Services.Tests\\InvoiceCalculator.Services.Tests.csproj",
+      "projectUniqueName": "D:\\Technicalassigment\\Solutions\\Solutions\\1. Invoice\\InvoiceCalculator.Services.Tests\\InvoiceCalculator.Services.Tests.csproj",
       "projectName": "InvoiceCalculator.Services.Tests",
-      "projectPath": "D:\\Technicalassigment\\Solutions\\Solutions\\Invoice\\InvoiceCalculator.Services.Tests\\InvoiceCalculator.Services.Tests.csproj",
+      "projectPath": "D:\\Technicalassigment\\Solutions\\Solutions\\1. Invoice\\InvoiceCalculator.Services.Tests\\InvoiceCalculator.Services.Tests.csproj",
       "packagesPath": "C:\\Users\\IT\\.nuget\\packages\\",
-      "outputPath": "D:\\Technicalassigment\\Solutions\\Solutions\\Invoice\\InvoiceCalculator.Services.Tests\\obj\\",
+      "outputPath": "D:\\Technicalassigment\\Solutions\\Solutions\\1. Invoice\\InvoiceCalculator.Services.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
