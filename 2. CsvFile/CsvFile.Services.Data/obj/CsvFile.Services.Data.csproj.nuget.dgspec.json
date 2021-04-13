@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Technicalassigment\\Solutions\\Solutions\\CsvFile\\CsvFile.Services.Data\\CsvFile.Services.Data.csproj": {}
+    "D:\\Technical assignment\\Solutions\\Solutions\\2. CsvFile\\CsvFile.Services.Data\\CsvFile.Services.Data.csproj": {}
   },
   "projects": {
-    "D:\\Technicalassigment\\Solutions\\Solutions\\CsvFile\\CsvFile.Services.Data\\CsvFile.Services.Data.csproj": {
+    "D:\\Technical assignment\\Solutions\\Solutions\\2. CsvFile\\CsvFile.Services.Data\\CsvFile.Services.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Technicalassigment\\Solutions\\Solutions\\CsvFile\\CsvFile.Services.Data\\CsvFile.Services.Data.csproj",
+        "projectUniqueName": "D:\\Technical assignment\\Solutions\\Solutions\\2. CsvFile\\CsvFile.Services.Data\\CsvFile.Services.Data.csproj",
         "projectName": "CsvFile.Services.Data",
-        "projectPath": "D:\\Technicalassigment\\Solutions\\Solutions\\CsvFile\\CsvFile.Services.Data\\CsvFile.Services.Data.csproj",
+        "projectPath": "D:\\Technical assignment\\Solutions\\Solutions\\2. CsvFile\\CsvFile.Services.Data\\CsvFile.Services.Data.csproj",
         "packagesPath": "C:\\Users\\IT\\.nuget\\packages\\",
-        "outputPath": "D:\\Technicalassigment\\Solutions\\Solutions\\CsvFile\\CsvFile.Services.Data\\obj\\",
+        "outputPath": "D:\\Technical assignment\\Solutions\\Solutions\\2. CsvFile\\CsvFile.Services.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IT\\AppData\\Roaming\\NuGet\\NuGet.Config",

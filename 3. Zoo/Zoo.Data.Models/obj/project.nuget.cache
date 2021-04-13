@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0huX6PBAOFY8hFWFasMPxdAiDe4VUYSVz1j7MUygVaSy5nD09XmsS08KvDLK1xCaNWir195bxRFjzmd7eajlZQ==",
+  "dgSpecHash": "ZEvML8ixH2GVFb/+Ro3leJxZuU3ALUBdywr6gZ9VW0ep2YJd7D5tbtqhpML0VNXsCjfgEeEkRZdWd8mGQrLe1g==",
   "success": true,
-  "projectFilePath": "D:\\Technicalassigment\\Solutions\\Solutions\\3. Zoo\\Zoo.Data.Models\\Zoo.Data.Models.csproj",
+  "projectFilePath": "D:\\Technical assignment\\Solutions\\Solutions\\3. Zoo\\Zoo.Data.Models\\Zoo.Data.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IT\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
   ],

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Technicalassigment\\Solutions\\Solutions\\3. Zoo\\Zoo.Web.ViewModels\\Zoo.Web.ViewModels.csproj": {}
+    "D:\\Technical assignment\\Solutions\\Solutions\\3. Zoo\\Zoo.Web.ViewModels\\Zoo.Web.ViewModels.csproj": {}
   },
   "projects": {
-    "D:\\Technicalassigment\\Solutions\\Solutions\\3. Zoo\\Zoo.Web.ViewModels\\Zoo.Web.ViewModels.csproj": {
+    "D:\\Technical assignment\\Solutions\\Solutions\\3. Zoo\\Zoo.Web.ViewModels\\Zoo.Web.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Technicalassigment\\Solutions\\Solutions\\3. Zoo\\Zoo.Web.ViewModels\\Zoo.Web.ViewModels.csproj",
+        "projectUniqueName": "D:\\Technical assignment\\Solutions\\Solutions\\3. Zoo\\Zoo.Web.ViewModels\\Zoo.Web.ViewModels.csproj",
         "projectName": "Zoo.Web.ViewModels",
-        "projectPath": "D:\\Technicalassigment\\Solutions\\Solutions\\3. Zoo\\Zoo.Web.ViewModels\\Zoo.Web.ViewModels.csproj",
+        "projectPath": "D:\\Technical assignment\\Solutions\\Solutions\\3. Zoo\\Zoo.Web.ViewModels\\Zoo.Web.ViewModels.csproj",
         "packagesPath": "C:\\Users\\IT\\.nuget\\packages\\",
-        "outputPath": "D:\\Technicalassigment\\Solutions\\Solutions\\3. Zoo\\Zoo.Web.ViewModels\\obj\\",
+        "outputPath": "D:\\Technical assignment\\Solutions\\Solutions\\3. Zoo\\Zoo.Web.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IT\\AppData\\Roaming\\NuGet\\NuGet.Config",

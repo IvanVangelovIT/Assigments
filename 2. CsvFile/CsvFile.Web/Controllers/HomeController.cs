@@ -54,7 +54,7 @@
                 }
             }
 
-            return this.Ok(".csv File is stored in database");
+            return this.Ok(".csv file is transfered");
         }
 
         //TODO Move OffersClassMap

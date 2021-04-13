@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8ooII3a57V0sErg23dyVMjpjpHB+br5pyBYKiKtXQTaS8taLNrdoRsmA0n7Qe4EO9BFayeRjGNRWHMuVX0pSJQ==",
+  "dgSpecHash": "G393ssXMU50+KCWtTP10XP3hJhPwGE7Iv1cYg2rEtfV8eyaongmlOnKfSyfW0sh3ygH4YogwDL8NtdGGCZUkDw==",
   "success": true,
-  "projectFilePath": "D:\\Technicalassigment\\Solutions\\Solutions\\3. Zoo\\Zoo.Data\\Zoo.Data.csproj",
+  "projectFilePath": "D:\\Technical assignment\\Solutions\\Solutions\\3. Zoo\\Zoo.Data\\Zoo.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IT\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\IT\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.5\\microsoft.aspnetcore.cryptography.internal.5.0.5.nupkg.sha512",

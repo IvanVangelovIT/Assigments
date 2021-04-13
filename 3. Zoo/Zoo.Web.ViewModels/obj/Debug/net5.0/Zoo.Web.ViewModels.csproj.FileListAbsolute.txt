@@ -10,3 +10,15 @@ D:\Technicalassigment\Solutions\ZooAsigmentA1\Zoo\Zoo.Web.ViewModels\obj\Debug\n
 D:\Technicalassigment\Solutions\ZooAsigmentA1\Zoo\Zoo.Web.ViewModels\obj\Debug\net5.0\Zoo.Web.ViewModels.dll
 D:\Technicalassigment\Solutions\ZooAsigmentA1\Zoo\Zoo.Web.ViewModels\obj\Debug\net5.0\ref\Zoo.Web.ViewModels.dll
 D:\Technicalassigment\Solutions\ZooAsigmentA1\Zoo\Zoo.Web.ViewModels\obj\Debug\net5.0\Zoo.Web.ViewModels.pdb
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Web.ViewModels\bin\Debug\net5.0\Zoo.Web.ViewModels.deps.json
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Web.ViewModels\bin\Debug\net5.0\Zoo.Web.ViewModels.dll
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Web.ViewModels\bin\Debug\net5.0\ref\Zoo.Web.ViewModels.dll
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Web.ViewModels\bin\Debug\net5.0\Zoo.Web.ViewModels.pdb
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Web.ViewModels\obj\Debug\net5.0\Zoo.Web.ViewModels.csprojAssemblyReference.cache
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Web.ViewModels\obj\Debug\net5.0\Zoo.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Web.ViewModels\obj\Debug\net5.0\Zoo.Web.ViewModels.AssemblyInfoInputs.cache
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Web.ViewModels\obj\Debug\net5.0\Zoo.Web.ViewModels.AssemblyInfo.cs
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Web.ViewModels\obj\Debug\net5.0\Zoo.Web.ViewModels.csproj.CoreCompileInputs.cache
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Web.ViewModels\obj\Debug\net5.0\Zoo.Web.ViewModels.dll
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Web.ViewModels\obj\Debug\net5.0\ref\Zoo.Web.ViewModels.dll
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Web.ViewModels\obj\Debug\net5.0\Zoo.Web.ViewModels.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Technicalassigment\\Solutions\\Solutions\\CsvFile\\CsvFile.Data\\CsvFile.Data.csproj": {}
+    "D:\\Technical assignment\\Solutions\\Solutions\\2. CsvFile\\CsvFile.Data\\CsvFile.Data.csproj": {}
   },
   "projects": {
-    "D:\\Technicalassigment\\Solutions\\Solutions\\CsvFile\\CsvFile.Data.Models\\CsvFile.Data.Models.csproj": {
+    "D:\\Technical assignment\\Solutions\\Solutions\\2. CsvFile\\CsvFile.Data.Models\\CsvFile.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Technicalassigment\\Solutions\\Solutions\\CsvFile\\CsvFile.Data.Models\\CsvFile.Data.Models.csproj",
+        "projectUniqueName": "D:\\Technical assignment\\Solutions\\Solutions\\2. CsvFile\\CsvFile.Data.Models\\CsvFile.Data.Models.csproj",
         "projectName": "CsvFile.Data.Models",
-        "projectPath": "D:\\Technicalassigment\\Solutions\\Solutions\\CsvFile\\CsvFile.Data.Models\\CsvFile.Data.Models.csproj",
+        "projectPath": "D:\\Technical assignment\\Solutions\\Solutions\\2. CsvFile\\CsvFile.Data.Models\\CsvFile.Data.Models.csproj",
         "packagesPath": "C:\\Users\\IT\\.nuget\\packages\\",
-        "outputPath": "D:\\Technicalassigment\\Solutions\\Solutions\\CsvFile\\CsvFile.Data.Models\\obj\\",
+        "outputPath": "D:\\Technical assignment\\Solutions\\Solutions\\2. CsvFile\\CsvFile.Data.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,14 +66,14 @@
         }
       }
     },
-    "D:\\Technicalassigment\\Solutions\\Solutions\\CsvFile\\CsvFile.Data\\CsvFile.Data.csproj": {
+    "D:\\Technical assignment\\Solutions\\Solutions\\2. CsvFile\\CsvFile.Data\\CsvFile.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Technicalassigment\\Solutions\\Solutions\\CsvFile\\CsvFile.Data\\CsvFile.Data.csproj",
+        "projectUniqueName": "D:\\Technical assignment\\Solutions\\Solutions\\2. CsvFile\\CsvFile.Data\\CsvFile.Data.csproj",
         "projectName": "CsvFile.Data",
-        "projectPath": "D:\\Technicalassigment\\Solutions\\Solutions\\CsvFile\\CsvFile.Data\\CsvFile.Data.csproj",
+        "projectPath": "D:\\Technical assignment\\Solutions\\Solutions\\2. CsvFile\\CsvFile.Data\\CsvFile.Data.csproj",
         "packagesPath": "C:\\Users\\IT\\.nuget\\packages\\",
-        "outputPath": "D:\\Technicalassigment\\Solutions\\Solutions\\CsvFile\\CsvFile.Data\\obj\\",
+        "outputPath": "D:\\Technical assignment\\Solutions\\Solutions\\2. CsvFile\\CsvFile.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Technicalassigment\\Solutions\\Solutions\\CsvFile\\CsvFile.Data.Models\\CsvFile.Data.Models.csproj": {
-                "projectPath": "D:\\Technicalassigment\\Solutions\\Solutions\\CsvFile\\CsvFile.Data.Models\\CsvFile.Data.Models.csproj"
+              "D:\\Technical assignment\\Solutions\\Solutions\\2. CsvFile\\CsvFile.Data.Models\\CsvFile.Data.Models.csproj": {
+                "projectPath": "D:\\Technical assignment\\Solutions\\Solutions\\2. CsvFile\\CsvFile.Data.Models\\CsvFile.Data.Models.csproj"
               }
             }
           }

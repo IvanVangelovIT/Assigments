@@ -10,3 +10,15 @@ D:\Technicalassigment\Solutions\ZooAsigmentA1\Zoo\Zoo.Data.Models\obj\Debug\net5
 D:\Technicalassigment\Solutions\ZooAsigmentA1\Zoo\Zoo.Data.Models\obj\Debug\net5.0\Zoo.Data.Models.dll
 D:\Technicalassigment\Solutions\ZooAsigmentA1\Zoo\Zoo.Data.Models\obj\Debug\net5.0\ref\Zoo.Data.Models.dll
 D:\Technicalassigment\Solutions\ZooAsigmentA1\Zoo\Zoo.Data.Models\obj\Debug\net5.0\Zoo.Data.Models.pdb
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Data.Models\bin\Debug\net5.0\Zoo.Data.Models.deps.json
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Data.Models\bin\Debug\net5.0\Zoo.Data.Models.dll
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Data.Models\bin\Debug\net5.0\ref\Zoo.Data.Models.dll
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Data.Models\bin\Debug\net5.0\Zoo.Data.Models.pdb
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Data.Models\obj\Debug\net5.0\Zoo.Data.Models.csprojAssemblyReference.cache
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Data.Models\obj\Debug\net5.0\Zoo.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Data.Models\obj\Debug\net5.0\Zoo.Data.Models.AssemblyInfoInputs.cache
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Data.Models\obj\Debug\net5.0\Zoo.Data.Models.AssemblyInfo.cs
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Data.Models\obj\Debug\net5.0\Zoo.Data.Models.csproj.CoreCompileInputs.cache
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Data.Models\obj\Debug\net5.0\Zoo.Data.Models.dll
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Data.Models\obj\Debug\net5.0\ref\Zoo.Data.Models.dll
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Data.Models\obj\Debug\net5.0\Zoo.Data.Models.pdb

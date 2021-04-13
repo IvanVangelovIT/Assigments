@@ -6456,11 +6456,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Technicalassigment\\Solutions\\Solutions\\3. Zoo\\Zoo.Web\\Zoo.Web.csproj",
+      "projectUniqueName": "D:\\Technical assignment\\Solutions\\Solutions\\3. Zoo\\Zoo.Web\\Zoo.Web.csproj",
       "projectName": "Zoo.Web",
-      "projectPath": "D:\\Technicalassigment\\Solutions\\Solutions\\3. Zoo\\Zoo.Web\\Zoo.Web.csproj",
+      "projectPath": "D:\\Technical assignment\\Solutions\\Solutions\\3. Zoo\\Zoo.Web\\Zoo.Web.csproj",
       "packagesPath": "C:\\Users\\IT\\.nuget\\packages\\",
-      "outputPath": "D:\\Technicalassigment\\Solutions\\Solutions\\3. Zoo\\Zoo.Web\\obj\\",
+      "outputPath": "D:\\Technical assignment\\Solutions\\Solutions\\3. Zoo\\Zoo.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6477,11 +6477,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Technicalassigment\\Solutions\\Solutions\\3. Zoo\\Zoo.Data\\Zoo.Data.csproj": {
-              "projectPath": "D:\\Technicalassigment\\Solutions\\Solutions\\3. Zoo\\Zoo.Data\\Zoo.Data.csproj"
+            "D:\\Technical assignment\\Solutions\\Solutions\\3. Zoo\\Zoo.Data\\Zoo.Data.csproj": {
+              "projectPath": "D:\\Technical assignment\\Solutions\\Solutions\\3. Zoo\\Zoo.Data\\Zoo.Data.csproj"
             },
-            "D:\\Technicalassigment\\Solutions\\Solutions\\3. Zoo\\Zoo.Services.Data\\Zoo.Services.Data.csproj": {
-              "projectPath": "D:\\Technicalassigment\\Solutions\\Solutions\\3. Zoo\\Zoo.Services.Data\\Zoo.Services.Data.csproj"
+            "D:\\Technical assignment\\Solutions\\Solutions\\3. Zoo\\Zoo.Services.Data\\Zoo.Services.Data.csproj": {
+              "projectPath": "D:\\Technical assignment\\Solutions\\Solutions\\3. Zoo\\Zoo.Services.Data\\Zoo.Services.Data.csproj"
             }
           }
         }

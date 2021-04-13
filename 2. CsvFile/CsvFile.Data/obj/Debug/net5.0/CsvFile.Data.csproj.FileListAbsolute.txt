@@ -34,3 +34,39 @@ D:\Technicalassigment\Solutions\Solutions\CsvFile\CsvFile.Data\obj\Debug\net5.0\
 D:\Technicalassigment\Solutions\Solutions\CsvFile\CsvFile.Data\obj\Debug\net5.0\ref\CsvFile.Data.dll
 D:\Technicalassigment\Solutions\Solutions\CsvFile\CsvFile.Data\obj\Debug\net5.0\CsvFile.Data.pdb
 D:\Technicalassigment\Solutions\Solutions\CsvFile\CsvFile.Data\obj\Debug\net5.0\CsvFile.Data.genruntimeconfig.cache
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data\bin\Debug\net5.0\CsvFile.Data.deps.json
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data\bin\Debug\net5.0\CsvFile.Data.runtimeconfig.json
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data\bin\Debug\net5.0\CsvFile.Data.runtimeconfig.dev.json
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data\bin\Debug\net5.0\CsvFile.Data.dll
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data\bin\Debug\net5.0\ref\CsvFile.Data.dll
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data\bin\Debug\net5.0\CsvFile.Data.pdb
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data\bin\Debug\net5.0\CsvFile.Data.Models.dll
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data\bin\Debug\net5.0\CsvFile.Data.Models.pdb
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data\obj\Debug\net5.0\CsvFile.Data.csprojAssemblyReference.cache
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data\obj\Debug\net5.0\CsvFile.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data\obj\Debug\net5.0\CsvFile.Data.AssemblyInfoInputs.cache
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data\obj\Debug\net5.0\CsvFile.Data.AssemblyInfo.cs
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data\obj\Debug\net5.0\CsvFile.Data.csproj.CoreCompileInputs.cache
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data\obj\Debug\net5.0\CsvFile.Data.csproj.CopyComplete
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data\obj\Debug\net5.0\CsvFile.Data.dll
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data\obj\Debug\net5.0\ref\CsvFile.Data.dll
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data\obj\Debug\net5.0\CsvFile.Data.pdb
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data\obj\Debug\net5.0\CsvFile.Data.genruntimeconfig.cache
+D:\Technical assignment\Solutions\Solutions\2. CsvFile\CsvFile.Data\bin\Debug\net5.0\CsvFile.Data.deps.json
+D:\Technical assignment\Solutions\Solutions\2. CsvFile\CsvFile.Data\bin\Debug\net5.0\CsvFile.Data.runtimeconfig.json
+D:\Technical assignment\Solutions\Solutions\2. CsvFile\CsvFile.Data\bin\Debug\net5.0\CsvFile.Data.runtimeconfig.dev.json
+D:\Technical assignment\Solutions\Solutions\2. CsvFile\CsvFile.Data\bin\Debug\net5.0\CsvFile.Data.dll
+D:\Technical assignment\Solutions\Solutions\2. CsvFile\CsvFile.Data\bin\Debug\net5.0\ref\CsvFile.Data.dll
+D:\Technical assignment\Solutions\Solutions\2. CsvFile\CsvFile.Data\bin\Debug\net5.0\CsvFile.Data.pdb
+D:\Technical assignment\Solutions\Solutions\2. CsvFile\CsvFile.Data\bin\Debug\net5.0\CsvFile.Data.Models.dll
+D:\Technical assignment\Solutions\Solutions\2. CsvFile\CsvFile.Data\bin\Debug\net5.0\CsvFile.Data.Models.pdb
+D:\Technical assignment\Solutions\Solutions\2. CsvFile\CsvFile.Data\obj\Debug\net5.0\CsvFile.Data.csprojAssemblyReference.cache
+D:\Technical assignment\Solutions\Solutions\2. CsvFile\CsvFile.Data\obj\Debug\net5.0\CsvFile.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical assignment\Solutions\Solutions\2. CsvFile\CsvFile.Data\obj\Debug\net5.0\CsvFile.Data.AssemblyInfoInputs.cache
+D:\Technical assignment\Solutions\Solutions\2. CsvFile\CsvFile.Data\obj\Debug\net5.0\CsvFile.Data.AssemblyInfo.cs
+D:\Technical assignment\Solutions\Solutions\2. CsvFile\CsvFile.Data\obj\Debug\net5.0\CsvFile.Data.csproj.CoreCompileInputs.cache
+D:\Technical assignment\Solutions\Solutions\2. CsvFile\CsvFile.Data\obj\Debug\net5.0\CsvFile.Data.csproj.CopyComplete
+D:\Technical assignment\Solutions\Solutions\2. CsvFile\CsvFile.Data\obj\Debug\net5.0\CsvFile.Data.dll
+D:\Technical assignment\Solutions\Solutions\2. CsvFile\CsvFile.Data\obj\Debug\net5.0\ref\CsvFile.Data.dll
+D:\Technical assignment\Solutions\Solutions\2. CsvFile\CsvFile.Data\obj\Debug\net5.0\CsvFile.Data.pdb
+D:\Technical assignment\Solutions\Solutions\2. CsvFile\CsvFile.Data\obj\Debug\net5.0\CsvFile.Data.genruntimeconfig.cache

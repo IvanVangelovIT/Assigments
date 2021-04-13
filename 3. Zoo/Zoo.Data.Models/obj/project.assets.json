@@ -45,11 +45,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Technicalassigment\\Solutions\\Solutions\\3. Zoo\\Zoo.Data.Models\\Zoo.Data.Models.csproj",
+      "projectUniqueName": "D:\\Technical assignment\\Solutions\\Solutions\\3. Zoo\\Zoo.Data.Models\\Zoo.Data.Models.csproj",
       "projectName": "Zoo.Data.Models",
-      "projectPath": "D:\\Technicalassigment\\Solutions\\Solutions\\3. Zoo\\Zoo.Data.Models\\Zoo.Data.Models.csproj",
+      "projectPath": "D:\\Technical assignment\\Solutions\\Solutions\\3. Zoo\\Zoo.Data.Models\\Zoo.Data.Models.csproj",
       "packagesPath": "C:\\Users\\IT\\.nuget\\packages\\",
-      "outputPath": "D:\\Technicalassigment\\Solutions\\Solutions\\3. Zoo\\Zoo.Data.Models\\obj\\",
+      "outputPath": "D:\\Technical assignment\\Solutions\\Solutions\\3. Zoo\\Zoo.Data.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\IT\\AppData\\Roaming\\NuGet\\NuGet.Config",

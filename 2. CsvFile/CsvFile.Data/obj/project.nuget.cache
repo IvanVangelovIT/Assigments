@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OYTiN0ngBdk/FmC26ZWt0UuRHjlMwa7V38abI3Xq9zOMT+gZV+/k7GEVqX8mZ3TFbjrmhoM0zjcgUdK0De00Tw==",
+  "dgSpecHash": "dtd366ZF91LVnieuxMmpYXDQsJDq8E5/9xp3KHGb2VJAcGDHPblT47rQqVNX/Ihz/6Piq2fa6Om10mZtv4o2dg==",
   "success": true,
-  "projectFilePath": "D:\\Technicalassigment\\Solutions\\Solutions\\CsvFile\\CsvFile.Data\\CsvFile.Data.csproj",
+  "projectFilePath": "D:\\Technical assignment\\Solutions\\Solutions\\2. CsvFile\\CsvFile.Data\\CsvFile.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IT\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\IT\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.5\\microsoft.aspnetcore.cryptography.internal.5.0.5.nupkg.sha512",

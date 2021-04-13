@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RXXE0zchKopKxPBFT3QGsfu2G4HaNkykH71LXobE/xHPnbCc91E7NlT/12k90Ety61XyoAh2sioqKx1dySvMvw==",
+  "dgSpecHash": "uIN0WPmy9/DDQpbV3W4L9fPUYjrFQ4vuUuTe6O2sYeGCbZn1TQfpem027FoUWzVO1emAAL8H2Z72pnKZDk8lMA==",
   "success": true,
-  "projectFilePath": "D:\\Technicalassigment\\Solutions\\Solutions\\CsvFile\\CsvFile.Data.Models\\CsvFile.Data.Models.csproj",
+  "projectFilePath": "D:\\Technical assignment\\Solutions\\Solutions\\2. CsvFile\\CsvFile.Data.Models\\CsvFile.Data.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IT\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
   ],

@@ -6454,11 +6454,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Technicalassigment\\Solutions\\Solutions\\CsvFile\\CsvFile.Web\\CsvFile.Web.csproj",
+      "projectUniqueName": "D:\\Technical assignment\\Solutions\\Solutions\\2. CsvFile\\CsvFile.Web\\CsvFile.Web.csproj",
       "projectName": "CsvFile.Web",
-      "projectPath": "D:\\Technicalassigment\\Solutions\\Solutions\\CsvFile\\CsvFile.Web\\CsvFile.Web.csproj",
+      "projectPath": "D:\\Technical assignment\\Solutions\\Solutions\\2. CsvFile\\CsvFile.Web\\CsvFile.Web.csproj",
       "packagesPath": "C:\\Users\\IT\\.nuget\\packages\\",
-      "outputPath": "D:\\Technicalassigment\\Solutions\\Solutions\\CsvFile\\CsvFile.Web\\obj\\",
+      "outputPath": "D:\\Technical assignment\\Solutions\\Solutions\\2. CsvFile\\CsvFile.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6475,11 +6475,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Technicalassigment\\Solutions\\Solutions\\CsvFile\\CsvFile.Data.Models\\CsvFile.Data.Models.csproj": {
-              "projectPath": "D:\\Technicalassigment\\Solutions\\Solutions\\CsvFile\\CsvFile.Data.Models\\CsvFile.Data.Models.csproj"
+            "D:\\Technical assignment\\Solutions\\Solutions\\2. CsvFile\\CsvFile.Data.Models\\CsvFile.Data.Models.csproj": {
+              "projectPath": "D:\\Technical assignment\\Solutions\\Solutions\\2. CsvFile\\CsvFile.Data.Models\\CsvFile.Data.Models.csproj"
             },
-            "D:\\Technicalassigment\\Solutions\\Solutions\\CsvFile\\CsvFile.Data\\CsvFile.Data.csproj": {
-              "projectPath": "D:\\Technicalassigment\\Solutions\\Solutions\\CsvFile\\CsvFile.Data\\CsvFile.Data.csproj"
+            "D:\\Technical assignment\\Solutions\\Solutions\\2. CsvFile\\CsvFile.Data\\CsvFile.Data.csproj": {
+              "projectPath": "D:\\Technical assignment\\Solutions\\Solutions\\2. CsvFile\\CsvFile.Data\\CsvFile.Data.csproj"
             }
           }
         }

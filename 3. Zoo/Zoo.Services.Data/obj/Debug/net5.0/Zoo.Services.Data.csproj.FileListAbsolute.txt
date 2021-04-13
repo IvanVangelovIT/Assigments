@@ -17,3 +17,22 @@ D:\Technicalassigment\Solutions\ZooAsigmentA1\Zoo\Zoo.Services.Data\obj\Debug\ne
 D:\Technicalassigment\Solutions\ZooAsigmentA1\Zoo\Zoo.Services.Data\obj\Debug\net5.0\Zoo.Services.Data.dll
 D:\Technicalassigment\Solutions\ZooAsigmentA1\Zoo\Zoo.Services.Data\obj\Debug\net5.0\ref\Zoo.Services.Data.dll
 D:\Technicalassigment\Solutions\ZooAsigmentA1\Zoo\Zoo.Services.Data\obj\Debug\net5.0\Zoo.Services.Data.pdb
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Services.Data\bin\Debug\net5.0\Zoo.Services.Data.deps.json
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Services.Data\bin\Debug\net5.0\Zoo.Services.Data.dll
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Services.Data\bin\Debug\net5.0\ref\Zoo.Services.Data.dll
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Services.Data\bin\Debug\net5.0\Zoo.Services.Data.pdb
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Services.Data\bin\Debug\net5.0\Zoo.Data.dll
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Services.Data\bin\Debug\net5.0\Zoo.Data.Models.dll
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Services.Data\bin\Debug\net5.0\Zoo.Web.ViewModels.dll
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Services.Data\bin\Debug\net5.0\Zoo.Data.pdb
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Services.Data\bin\Debug\net5.0\Zoo.Web.ViewModels.pdb
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Services.Data\bin\Debug\net5.0\Zoo.Data.Models.pdb
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Services.Data\obj\Debug\net5.0\Zoo.Services.Data.csprojAssemblyReference.cache
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Services.Data\obj\Debug\net5.0\Zoo.Services.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Services.Data\obj\Debug\net5.0\Zoo.Services.Data.AssemblyInfoInputs.cache
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Services.Data\obj\Debug\net5.0\Zoo.Services.Data.AssemblyInfo.cs
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Services.Data\obj\Debug\net5.0\Zoo.Services.Data.csproj.CoreCompileInputs.cache
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Services.Data\obj\Debug\net5.0\Zoo.Services.Data.csproj.CopyComplete
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Services.Data\obj\Debug\net5.0\Zoo.Services.Data.dll
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Services.Data\obj\Debug\net5.0\ref\Zoo.Services.Data.dll
+D:\Technical assignment\Solutions\Solutions\3. Zoo\Zoo.Services.Data\obj\Debug\net5.0\Zoo.Services.Data.pdb

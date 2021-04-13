@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s4DUJ9h6N/3jUQ84fpkwC6RgNIcT36S4hpY8MnfdLgEr1WoSsI+Ol/NOmClI6BVCgtu5rAaHd2UaSHDT6OfVdQ==",
+  "dgSpecHash": "Wdq053dZ08yRUIvsz0jun9c+1cuXXyETwEJ5rpnA/5QSI7r2oVWaCD07m/bpLnEgIvmegFYrYdkV2CGSocMOig==",
   "success": true,
-  "projectFilePath": "D:\\Technicalassigment\\Solutions\\Solutions\\3. Zoo\\Zoo.Web.ViewModels\\Zoo.Web.ViewModels.csproj",
+  "projectFilePath": "D:\\Technical assignment\\Solutions\\Solutions\\3. Zoo\\Zoo.Web.ViewModels\\Zoo.Web.ViewModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IT\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
   ],

@@ -55,7 +55,7 @@
                     continue;
                 }
 
-                int rnd = this.GenerateDamageTakenRandomNumber(false);
+                int rnd = this.GenerateRandomNumber(false);
                 this.UpdateAnimalPropertiesByDamageTaken(animal, rnd);
             }
 
@@ -140,18 +140,18 @@
             }
         }
 
-        private int GenerateDamageTakenRandomNumber(bool isAnimalEating)
+        private int GenerateRandomNumber(bool isAnimalEating)
         {
             if (isAnimalEating)
             {
                 Random random = new Random();
-                var rnd = random.Next(5, 25);
+                var rnd = random.Next(5, 26);
                 return rnd;
             }
             else
             {
                 Random random = new Random();
-                var rnd = random.Next(0, 20);
+                var rnd = random.Next(0, 21);
                 return rnd;
             }
         }
@@ -192,7 +192,7 @@
                     continue;
                 }
 
-                int rnd = this.GenerateDamageTakenRandomNumber(true);
+                int rnd = this.GenerateRandomNumber(true);
                 this.UpdateAnimalPropertiesByPointsRecieved(animal, rnd);
             }
 

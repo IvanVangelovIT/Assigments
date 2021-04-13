@@ -22,3 +22,15 @@ D:\Technicalassigment\Solutions\Solutions\CsvFile\CsvFile.Data.Models\obj\Debug\
 D:\Technicalassigment\Solutions\Solutions\CsvFile\CsvFile.Data.Models\obj\Debug\net5.0\CsvFile.Data.Models.dll
 D:\Technicalassigment\Solutions\Solutions\CsvFile\CsvFile.Data.Models\obj\Debug\net5.0\ref\CsvFile.Data.Models.dll
 D:\Technicalassigment\Solutions\Solutions\CsvFile\CsvFile.Data.Models\obj\Debug\net5.0\CsvFile.Data.Models.pdb
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data.Models\bin\Debug\net5.0\CsvFile.Data.Models.deps.json
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data.Models\bin\Debug\net5.0\CsvFile.Data.Models.dll
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data.Models\bin\Debug\net5.0\ref\CsvFile.Data.Models.dll
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data.Models\bin\Debug\net5.0\CsvFile.Data.Models.pdb
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data.Models\obj\Debug\net5.0\CsvFile.Data.Models.csprojAssemblyReference.cache
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data.Models\obj\Debug\net5.0\CsvFile.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data.Models\obj\Debug\net5.0\CsvFile.Data.Models.AssemblyInfoInputs.cache
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data.Models\obj\Debug\net5.0\CsvFile.Data.Models.AssemblyInfo.cs
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data.Models\obj\Debug\net5.0\CsvFile.Data.Models.csproj.CoreCompileInputs.cache
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data.Models\obj\Debug\net5.0\CsvFile.Data.Models.dll
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data.Models\obj\Debug\net5.0\ref\CsvFile.Data.Models.dll
+D:\Technicalassigment\Solutions\Solutions\2. CsvFile\CsvFile.Data.Models\obj\Debug\net5.0\CsvFile.Data.Models.pdb
