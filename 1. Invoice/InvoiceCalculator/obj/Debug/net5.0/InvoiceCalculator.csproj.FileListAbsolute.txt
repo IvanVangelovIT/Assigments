@@ -46,3 +46,19 @@ D:\Technicalassigment\Solutions\Solutions\Invoice\InvoiceCalculator\obj\Debug\ne
 D:\Technicalassigment\Solutions\Solutions\Invoice\InvoiceCalculator\obj\Debug\net5.0\ref\InvoiceCalculator.dll
 D:\Technicalassigment\Solutions\Solutions\Invoice\InvoiceCalculator\obj\Debug\net5.0\InvoiceCalculator.pdb
 D:\Technicalassigment\Solutions\Solutions\Invoice\InvoiceCalculator\obj\Debug\net5.0\InvoiceCalculator.genruntimeconfig.cache
+D:\Technicalassigment\Solutions\Solutions\1. Invoice\InvoiceCalculator\bin\Debug\net5.0\InvoiceCalculator.exe
+D:\Technicalassigment\Solutions\Solutions\1. Invoice\InvoiceCalculator\obj\Debug\net5.0\InvoiceCalculator.csprojAssemblyReference.cache
+D:\Technicalassigment\Solutions\Solutions\1. Invoice\InvoiceCalculator\obj\Debug\net5.0\InvoiceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technicalassigment\Solutions\Solutions\1. Invoice\InvoiceCalculator\obj\Debug\net5.0\InvoiceCalculator.AssemblyInfoInputs.cache
+D:\Technicalassigment\Solutions\Solutions\1. Invoice\InvoiceCalculator\obj\Debug\net5.0\InvoiceCalculator.AssemblyInfo.cs
+D:\Technicalassigment\Solutions\Solutions\1. Invoice\InvoiceCalculator\obj\Debug\net5.0\InvoiceCalculator.csproj.CoreCompileInputs.cache
+D:\Technicalassigment\Solutions\Solutions\1. Invoice\InvoiceCalculator\obj\Debug\net5.0\InvoiceCalculator.dll
+D:\Technicalassigment\Solutions\Solutions\1. Invoice\InvoiceCalculator\obj\Debug\net5.0\ref\InvoiceCalculator.dll
+D:\Technicalassigment\Solutions\Solutions\1. Invoice\InvoiceCalculator\obj\Debug\net5.0\InvoiceCalculator.pdb
+D:\Technicalassigment\Solutions\Solutions\1. Invoice\InvoiceCalculator\bin\Debug\net5.0\InvoiceCalculator.deps.json
+D:\Technicalassigment\Solutions\Solutions\1. Invoice\InvoiceCalculator\bin\Debug\net5.0\InvoiceCalculator.runtimeconfig.json
+D:\Technicalassigment\Solutions\Solutions\1. Invoice\InvoiceCalculator\bin\Debug\net5.0\InvoiceCalculator.runtimeconfig.dev.json
+D:\Technicalassigment\Solutions\Solutions\1. Invoice\InvoiceCalculator\bin\Debug\net5.0\InvoiceCalculator.dll
+D:\Technicalassigment\Solutions\Solutions\1. Invoice\InvoiceCalculator\bin\Debug\net5.0\ref\InvoiceCalculator.dll
+D:\Technicalassigment\Solutions\Solutions\1. Invoice\InvoiceCalculator\bin\Debug\net5.0\InvoiceCalculator.pdb
+D:\Technicalassigment\Solutions\Solutions\1. Invoice\InvoiceCalculator\obj\Debug\net5.0\InvoiceCalculator.genruntimeconfig.cache

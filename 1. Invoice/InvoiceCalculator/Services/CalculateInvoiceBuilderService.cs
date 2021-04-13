@@ -164,7 +164,7 @@
         public void Result()
         {
             decimal SMSFee = calculateMMSAndSMSFeeService.CalculateSMSFee(this.SendedSMS);
-            decimal MMSFee = calculateMMSAndSMSFeeService.CalculateSMSFee(this.SendedMMS);
+            decimal MMSFee = calculateMMSAndSMSFeeService.CalculateMMSFee(this.SendedMMS);
 
             var invoice = this.MonthlyFee
                 + SMSFee

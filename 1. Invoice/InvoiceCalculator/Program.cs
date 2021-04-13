@@ -4,9 +4,9 @@
     using System.Text;
     using InvoiceCalculator.Services;
 
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
             ReadInput();
@@ -44,7 +44,6 @@
                     Console.WriteLine(GlobalConstants.GlobalConstants.Delimiter);
                 }
             }
-            
         }
     }
 }
